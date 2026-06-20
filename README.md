@@ -90,53 +90,6 @@ Contiene los estilos globales del proyecto:
 
 ---
 
-### inicio.css
-
-Estilos exclusivos de la página principal:
-
-* Hero principal
-* Colección destacada
-* Historia de la marca
-* Suscripción al newsletter
-
----
-
-### coleccion.css
-
-Estilos de la página de catálogo:
-
-* Hero de colección
-* Buscador visual
-* Filtros
-* Grilla de productos
-* Botón "Load More"
-
----
-
-### contacto.css
-
-Estilos de la página de contacto:
-
-* Información institucional
-* Formulario de contacto
-* Redes sociales
-* Servicios
-* Imagen editorial
-
----
-
-### carrito.css
-
-Estilos de la página de carrito:
-
-* Listado de productos
-* Cantidades
-* Resumen de compra
-* Beneficios
-* Botones de acción
-
----
-
 ## 📱 Responsive Design
 
 El proyecto está preparado para distintos tamaños de pantalla utilizando Media Queries.
